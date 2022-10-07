@@ -1,1 +1,1 @@
-Chat App created using React JS and Firebase 
+Created a Chat App using React JS and Firebase 
